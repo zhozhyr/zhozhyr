@@ -5,8 +5,8 @@
 <h3 align="center">Python Developer & Dreamer in the Realm of Middle-earth</h3>
 
 <div align="center">
-    🌱 4th year "Software Engineering" student at Tomsk Polytechnic University.<br>
-    🌌 Exploring the paths of technology like a true wanderer of Arda.
+    🧑‍💻 4th year "Software Engineering" student at Tomsk Polytechnic University.<br>
+    🌙 Exploring the paths of technology like a true wanderer of Arda.
 </div>
 
 <div align="center"> 
