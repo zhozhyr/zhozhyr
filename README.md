@@ -1,16 +1,23 @@
-## Hi there 👋
+### 📊 **Моя активность**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhozhyr&show_icons=true&theme=radical&hide=issues)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhozhyr&layout=compact&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhozhyr&theme=dracula)  
 
-<!--
-**zhozhyr/zhozhyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 **Мой стек технологий**  
+- **Backend:** Django, FastAPI, Flask  
+- **Frontend:** React, Vue.js, Bootstrap  
+- **DevOps:** Docker, Nginx  
+- **Базы данных:** PostgreSQL, SQLite  
+- **Инструменты:** Git, VS Code, PyCharm  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+---
+
+### 🌟 **Философия разработки**
+> "Код — это не просто текст, это решение проблемы."  
+
+---
+
+_Спасибо, что заглянули в мой профиль! Не стесняйтесь написать или посмотреть мои проекты._ 🚀
