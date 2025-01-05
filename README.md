@@ -2,15 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Ringbearer&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Mae+govannen!;+I'm+Darya;+It's+my+GitHub+profile!" />
 </h1>
 
-
 <h3 align="center">Python Developer & Dreamer in the Realm of Middle-earth</h3>
 
 <div align="center">
     🌱 4th year "Software Engineering" student at Tomsk Polytechnic University.<br>
     🌌 Exploring the paths of technology like a true wanderer of Arda.
 </div>
-
----
 
 <div align="center"> 
   <a href="https://t.me/zhozhyr" target="_blank">
@@ -21,22 +18,11 @@
   </a>
 </div>
 
----
-
 <h2 align="center">⚒️ Tools Forged in the Flames of Mount Doom ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=pycharm,vscode,github,gitlab,git,postman,windows" /><br>
     <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,kubernetes,nginx,grafana,prometheus" /><br>
 </div>
-
----
-
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<div align="center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zhozhyr/zhozhyr/output/github-contribution-grid-snake.svg" />
-</div>
-
----
 
 <h2 align="center">📜 Records of the Palantír 📜</h2>
 <div align="center">
@@ -46,20 +32,14 @@
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhozhyr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
----
-
 <h2 align="center">🛠️ Other Tools & Technologies I've Worked With 🛠️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,cpp,net,linux,visualstudio,bootstrap,html,css,js,selenium,sqlite" /><br>
 </div>
 
----
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Ringbearer&size=35&center=true&vCenter=true&width=600&lines=Not+all+who+wander+are+lost" alt="Dynamic Banner" />
 </h1>
-
----
 
 <div align="center">
     Thanks for visiting my profile! 🌟
