@@ -35,7 +35,7 @@
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://github-contribution-grid-snake.vercel.app/?username=zhozhyr&theme=dracula" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zhozhyr/zhozhyr/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
