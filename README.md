@@ -26,7 +26,8 @@
 
 <h2 align="center">📈 The Journey Through My GitHub Activity 📈</h2>
 
-[![zhozhyr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhozhyr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zhozhyr&theme=github-compact" alt="GitHub Activity"/>
+
 
 
 
