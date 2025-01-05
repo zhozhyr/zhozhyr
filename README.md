@@ -61,16 +61,34 @@
 ---
 
 
-<h2 align="center">🌍 The Map of Middle-earth 🌍</h2>
+<h2 align="center">🌍 Explore Middle-earth 🌍</h2>
 <div align="center">
     <a href="https://lotr.fandom.com/wiki/Middle-earth" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Middle-earth_map.svg" width="400" alt="Middle-earth Map" />
+        <img src="images/middle-earth-map.png" alt="Middle-earth Map" width="500" />
     </a>
 </div>
 
+
 ---
 
-_“Even the smallest person can change the course of the future.” – Galadriel_
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ringbearer&size=35&center=true&vCenter=true&width=600&lines=Not+all+who+wander+are+lost" alt="Dynamic Banner" />
+</h1>
+
+---
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Ring_inscription.png" alt="The One Ring" width="100" style="animation: spin 4s linear infinite;" />
+</div>
+
+<style>
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
+
+---
 
 <div align="center">
     Thanks for visiting my profile! 🌟
