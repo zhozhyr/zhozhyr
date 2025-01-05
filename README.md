@@ -1,13 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zhozhyr.zhozhyr" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Vladislav;Welcome+to+my+GitHub+profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Elvish+Ring+NFI&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Mae+govannen!;Welcome+to+Middle-earth!" />
 </h1>
 
-<h3 align="center">Python Developer & Dreamer</h3>
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Ring_inscription.png" width="200" alt="The One Ring" />
+</div>
+
+<h3 align="center">Python Developer & Dreamer in the Realm of Middle-earth</h3>
 
 <div align="center">
-    🌱 4th year "Software Engineering" student at Tomsk Polytechnic University.
+    🌱 4th year "Software Engineering" student at Tomsk Polytechnic University.<br>
+    🌌 Exploring the paths of technology like a true wanderer of Arda.
 </div>
 
 ---
@@ -16,14 +21,11 @@
   <a href="https://t.me/zhozhyr" target="_blank">
      <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" target="_blank"/> 
   </a>
-  <a href="https://github.com/zhozhyr" target="_blank">
-     <img src="https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github" target="_blank"/> 
-  </a>
 </div>
 
 ---
 
-<h2 align="center">⚒️ My Tech Stack ⚒️</h2>
+<h2 align="center">⚒️ Tools Forged in the Flames of Mount Doom ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=pycharm,vscode,github,gitlab,git,postman,windows" /><br>
     <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,kubernetes,nginx,grafana,prometheus" /><br>
@@ -31,14 +33,14 @@
 
 ---
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h2 align="center">🐍 My Contributions (Watched by the Eye of Sauron) 🐍</h2>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zhozhyr/zhozhyr/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">📜 Records of the Palantír 📜</h2>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=zhozhyr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=zhozhyr&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -48,11 +50,17 @@
 
 ---
 
-<h2 align="center">🛠️ Other Tools & Technologies I've Worked With 🛠️</h2>
+<h2 align="center">🌍 The Map of Middle-earth 🌍</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,cpp,net,linux,visualstudio,bootstrap,html,css,js,selenium,sqlite" /><br>
+    <a href="https://lotr.fandom.com/wiki/Middle-earth" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Middle-earth_map.svg" width="400" alt="Middle-earth Map" />
+    </a>
 </div>
 
 ---
 
-_Спасибо, что посетили мой профиль! 🚀_
+_“Even the smallest person can change the course of the future.” – Galadriel_
+
+<div align="center">
+    Thanks for visiting my profile! 🌟
+</div>
