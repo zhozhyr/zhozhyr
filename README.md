@@ -24,6 +24,12 @@
     <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,kubernetes,nginx,grafana,prometheus" /><br>
 </div>
 
+<h2 align="center">📈 The Journey Through My GitHub Activity 📈</h2>
+
+[![zhozhyr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhozhyr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <h2 align="center">📜 Records of the Palantír 📜</h2>
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=zhozhyr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
