@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Mae+govannen!+👋;Welcome+to+Middle-earth!" />
 </h1>
 
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Ring_inscription.png" width="200" alt="The One Ring" />
-</div>
-
 <h3 align="center">Python Developer & Dreamer in the Realm of Middle-earth</h3>
 
 <div align="center">
@@ -60,33 +56,9 @@
 
 ---
 
-
-<h2 align="center">🌍 Explore Middle-earth 🌍</h2>
-<div align="center">
-    <a href="https://lotr.fandom.com/wiki/Middle-earth" target="_blank">
-        <img src="images/middle-earth-map.png" alt="Middle-earth Map" width="500" />
-    </a>
-</div>
-
-
----
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Ringbearer&size=35&center=true&vCenter=true&width=600&lines=Not+all+who+wander+are+lost" alt="Dynamic Banner" />
 </h1>
-
----
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Ring_inscription.png" alt="The One Ring" width="100" style="animation: spin 4s linear infinite;" />
-</div>
-
-<style>
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
 
 ---
 
